@@ -1,0 +1,7 @@
+{"status":"0",
+  "isFinalStatus":"Y",
+  "stageLogs":
+  {"com.subhadipmitra.datory.preprocessing.core.stages.StageApplicationInitialize":["0"],
+    "com.subhadipmitra.datory.preprocessing.core.stages.StageFileProcessing":["0"],
+    "com.subhadipmitra.datory.preprocessing.core.stages.StageFetchMetadata":["0"],
+    "com.subhadipmitra.datory.preprocessing.core.stages.StageApplicationFinalize":["0"]}}
