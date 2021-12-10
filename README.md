@@ -58,7 +58,6 @@ Modules
 
 **Client Module**
 
-Client Module resides at the EDGE Node at /edf/appl/lib, and is available to EDF.jar classpath.
 Entry point is `Application`, that implements the interface 
 `HookFrameworkInterface` and `execute` method.
 The Client Module is used to launch the spark job on the cluster using `SparkJobLauncher`.
@@ -94,7 +93,7 @@ Contains common metadata DB connection, config reader, application constants, ex
 - `ParamsModel`: Model that packs the parameters received by the Client and Core Module 
 - `LayoutModel`: File Layout Model, currently implemented for DELIMITED files
 - `DestinationModel`: Hadoop Destination Table model
-- `ResponseModel`: Response object model returned to the EDF
+- `ResponseModel`: Response object model returned to the caller upstream
 - `SourceModel`: Landing folder specific model from where the pre-processing file is picked up
 - `SparkJobModel`: Spark Job Parameters Model, used by Client Module to launch the spark job.
 - `StatusModel`: Mostly used for collating stagewise logs of the Core-Cluster Module.
