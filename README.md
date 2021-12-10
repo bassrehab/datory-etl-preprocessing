@@ -126,4 +126,5 @@ Todo
 ----
 - Better Docs
 - Support Apache Spark 3.x
-- Extend to popular obj stores.
+- Extend to popular obj stores
+- Extend to Streaming payloads
