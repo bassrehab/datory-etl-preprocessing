@@ -15,7 +15,7 @@
 		<scala.library.version>2.11.0</scala.library.version>
 		<jython.version>2.7.0</jython.version>
 		<hadoop.version>2.6.0-cdh5.14.4</hadoop.version>
-		<spark.version>2.2.0.cloudera1</spark.version>
+		<spark.version>2.4.8.7.2.12.0-291</spark.version>
 		<sl4j.version>1.7.21</sl4j.version>
 		<log4j.version>1.2.17</log4j.version>
 		<guava.version>12.0.1</guava.version>
