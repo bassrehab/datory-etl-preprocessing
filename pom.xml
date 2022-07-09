@@ -13,7 +13,7 @@
 		<scala.version>2.12</scala.version>
 		<scala.tools.version>2.15.2</scala.tools.version>
 		<scala.library.version>2.11.0</scala.library.version>
-		<jython.version>2.7.0</jython.version>
+		<jython.version>2.7.1</jython.version>
 		<hadoop.version>3.2.3</hadoop.version>
 		<spark.version>2.4.8</spark.version>
 		<sl4j.version>1.7.21</sl4j.version>
